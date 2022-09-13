@@ -8,10 +8,13 @@ Estudante de desenvolvimento WEB.
 ## 🛠 Habilidades
 
 
-🧠 Estou aprendendo
+🧠 Conhecimento base
 - HTML
 - CSS
 - JS
+
+🧠 Atualmente Estudando
+- Flutter
 
 
 📫 Como entrar em contato comigo...
