@@ -1,4 +1,4 @@
-#Em construção
+# Em construção
 
 # Olá, eu sou o Guilherme! 👋
 
@@ -12,7 +12,6 @@ Estudante de desenvolvimento WEB.
 🧠 Conhecimento base
 - HTML
 - CSS
-- JS
 
 🧠 Atualmente Estudando
 - Flutter
@@ -20,11 +19,7 @@ Estudante de desenvolvimento WEB.
 
 📫 Como entrar em contato comigo...
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgdp&show_icons=true&theme=radial) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgdp&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgdp&hide=c%2B%2B,C,Cmake,HTML,CSS,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgdp&show_icons=true&theme=transparent)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgdp&layout=compact&hide=c%2B%2B,Cmake,HTML&theme=transparen)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgdp)](https://github.com/anuraghazra/github-readme-stats) -->
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgdp&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
